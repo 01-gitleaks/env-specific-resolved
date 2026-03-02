@@ -149,7 +149,7 @@ Database: Running (PID 2345) - Connections: 12
   Password: Pr0d-DB-S3cur3!P@$$w0rd
 API Gateway: Running (PID 3456) - Requests/sec: 45
 
-  Secret: 9i8u7y6t5r4e3w2q1z0x9c8v7b6n5m4k3j2h1g
+
 Authentication Service: Running (PID 4567) - Active sessions: 8
 File Storage: Running (PID 5678) - Disk usage: 68%
 
